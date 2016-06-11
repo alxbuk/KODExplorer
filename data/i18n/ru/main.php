@@ -1,4 +1,6 @@
 <?php
+// Localization of AlxBuk
+// still make ...
 $L = array(
 	"upload_clear"  			=>'clear',
 	"upload_setting"  			=>"setting",
